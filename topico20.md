@@ -3,4 +3,4 @@
 O inverso também pode ser feito.
 
 2. A entidade 'LIVRO_AUTOR' que possui apenas um atributo/chave pode ser removida 
-se adicionarmos o atributo Nome_autor à entidade 'LIVRO'.
+se adicionarmos o atributo 'Nome_autor' à entidade 'LIVRO'.
